@@ -30,5 +30,5 @@ Based on the analysis of the dataset, the following insights were identified:
 * `README.md`: Project summary and business insights.
 
 ---
-**Author**: Ajit Kumar Shrivastav
+**Author**: Amit Shrivastav
 **Education**: BS in Applied AI and Data Science, IIT Jodhpur (Cohort 1, 2025)
